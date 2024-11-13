@@ -11,11 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimoranla)](https://github.com/anuraghazra/github-readme-stats)
 [![Shimoranla's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimoranla)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub 活动统计
-
-![Activity Counter](https://github-readme-activity-graph.cyclic.app/graph?username=shimoranla&theme=dracula)
-
-
 ## 开发语言
 
 比较熟悉的: Kotlin Python
