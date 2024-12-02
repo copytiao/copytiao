@@ -6,8 +6,7 @@
 
 你是第 ![Visitor Count](https://profile-counter.glitch.me/shimoranla/count.svg) 位到访者
 
-## 我的贡献统计（虽然暂时没有就是了）
-
+## 我的贡献统计
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimoranla)](https://github.com/anuraghazra/github-readme-stats)
 [![Shimoranla's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimoranla)](https://github.com/anuraghazra/github-readme-stats)
 
