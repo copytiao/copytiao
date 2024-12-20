@@ -28,6 +28,16 @@ Visual Studio （虽然有点卡，但是挺好用的）
 
 Jebrains IDEA （虽然用的是 Community Edition，但是也很好用 awa）
 
+## 如何联系到我
+
+你可以直接在 [Issue 页面](https://github.com/shimoranla/shimoranla/issues)[创建 Issue](https://github.com/shimoranla/shimoranla/issues/new?assignees=shimoranla&labels=&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+) 和我直接交流
+
+如果不想公开聊天内容，可以发送电子邮件
+
+我的对外公开邮箱是 boximengling@qq.com
+
+但是一般情况下，在工作日发送的电子邮件只能在周末被处理掉，抱歉啦!
+
 <details>
 <summary>页面使用的开源项目</summary>  
 
