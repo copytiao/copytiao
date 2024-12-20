@@ -30,7 +30,7 @@ Jebrains IDEA （虽然用的是 Community Edition，但是也很好用 awa）
 
 ## 如何联系到我
 
-你可以直接在 [Issue 页面](https://github.com/shimoranla/shimoranla/issues)直接[创建 Issue](https://github.com/shimoranla/shimoranla/issues/new?assignees=shimoranla&labels=&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+) 和我直接交流
+你可以直接在 [Issue 页面](https://github.com/shimoranla/shimoranla/issues)直接[创建 Issue](https://github.com/shimoranla/shimoranla/issues/new?assignees=shimoranla&labels=&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+) 和我交流
 
 如果不想公开聊天内容，可以发送电子邮件
 
