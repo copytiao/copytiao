@@ -2,7 +2,7 @@
 name: "[Talk] Talk with me"
 about: Talk with me
 title: "[Talk] "
-labels: ''
+labels: 'Talk,Wait for review'
 assignees: shimoranla
 
 ---
