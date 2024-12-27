@@ -2,8 +2,7 @@
 
 # 关于我
 
-我叫薄奚梦灵，一个专精后端的开发者，高一住宿生，不会太活跃
-
+我叫薄奚梦灵，是某个县第一中学的高一住宿生
 你是第 ![Visitor Count](https://profile-counter.glitch.me/shimoranla/count.svg) 位到访者
 
 ## 我的贡献统计
@@ -30,7 +29,7 @@ Jebrains IDEA （虽然用的是 Community Edition，但是也很好用 awa）
 
 ## 如何联系到我
 
-你可以直接在 [Issue 页面](https://github.com/shimoranla/shimoranla/issues)直接[创建 Issue](https://github.com/shimoranla/shimoranla/issues/new) 和我交流
+你可以直接在 [Issue 页面](https://github.com/shimoranla/shimoranla/issues)直接[创建 Issue]([https://github.com/shimoranla/shimoranla/issues/new](https://github.com/shimoranla/shimoranla/issues/new?assignees=shimoranla&labels=Talk%2CWait+for+review&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+)) 和我交流
 
 如果不想公开聊天内容，可以发送电子邮件
 
