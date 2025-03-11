@@ -48,7 +48,9 @@ Jebrains IDEA （虽然用的是 Community Edition，但是也很好用 awa）
 
 如果不想公开聊天内容，可以发送电子邮件
 
-我的对外公开邮箱是 boximengling@qq.com
+我的对外公开邮箱是 boximengling@outlook.com
+
+如果想要获得 IM 般的体验，也可以选择 [Gitter](https://matrix.to/#/@shimoranla:gitter.im)
 
 但是并不推荐这种联系方式，因为我一般很少看电子邮件，所以可能随缘回复，非常抱歉！
 
