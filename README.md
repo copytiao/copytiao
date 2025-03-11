@@ -18,7 +18,7 @@
 
 - [SuikaiProject](https://github.com/SuikaiProject) 的发起者之一。
 
-- [PCL2 储存库](https://github.com/Hex-Dragon/PCL2/)的社区协作者。
+- [PCL2 储存库](https://github.com/Hex-Dragon/PCL2/) 的社区协作者。
 
 - [PCL Community](https://github.com/PCL-Community) 的成员。
 
