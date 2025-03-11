@@ -10,9 +10,17 @@
 
 比较擅长写文档（虽然写的不是很好）。
 
-LuoYun-Team 开发组成员和 SuikaiProject 的发起者之一。
-
 你是第 ![Visitor Count](https://profile-counter.glitch.me/shimoranla/count.svg) 位到访者
+
+## 目前正在担任的职位
+
+- LuoYun-Team 开发组成员。
+
+- SuikaiProject 的发起者之一。
+
+- [PCL2 储存库](https://github.com/Hex-Dragon/PCL2/)的社区协作者。
+
+- [PCL Community](https://github.com/PCL-Community) 的成员。
 
 ## 标签
 
