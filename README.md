@@ -14,9 +14,9 @@
 
 ## 目前正在担任的职位
 
-- LuoYun-Team 开发组成员。
+- [LuoYun-Team](https://github.com/LuoYun-Team/) 开发组的成员。
 
-- SuikaiProject 的发起者之一。
+- [SuikaiProject](https://github.com/SuikaiProject) 的发起者之一。
 
 - [PCL2 储存库](https://github.com/Hex-Dragon/PCL2/)的社区协作者。
 
