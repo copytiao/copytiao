@@ -1,7 +1,7 @@
 name: "报告权限不合理使用等有关问题"
 description: "报告本人在社区中可能存在的不合理使用权限问题"
 
-labels: ["report","wait for review"]
+labels: ["Report","Wait for review"]
 
 body:
 - type: checkboxes
