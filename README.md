@@ -10,6 +10,8 @@
 
 比较擅长写文档（虽然写的不是很好）。
 
+我的 MBTI 类型是 ISFP（探险家人格），喜欢探索新的、未知的事物。
+
 你是第 ![Visitor Count](https://profile-counter.glitch.me/shimoranla/count.svg) 位到访者
 
 ## 目前正在担任的职位
