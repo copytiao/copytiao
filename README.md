@@ -34,7 +34,7 @@
 
 比较熟悉的: Kotlin Python Csharp（C#）
 
-正在学习的:  TypeScript Lua Vue.js VB.NET
+正在学习的:  JavaScript Lua Vue.js VB.NET
 
 计划学习: C++ C Go Java Rust
 
