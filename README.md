@@ -32,6 +32,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimoranla)](https://github.com/anuraghazra/github-readme-stats)
 [![Shimoranla's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimoranla)](https://github.com/anuraghazra/github-readme-stats)
 
+## 随机刷新点
+
+[GitHub](https://github.com/)
+
+
+
 ## 开发语言
 
 比较熟悉的: Kotlin Python Csharp（C#）
