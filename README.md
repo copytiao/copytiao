@@ -58,6 +58,10 @@ Jebrains IDEA （虽然用的是 Community Edition，但是也很好用 awa）
 
 [Minecraft 启动器开发指北](https://github.com/LuoYun-Team/MinecraftLauncherWiki)
 
+## 本周事件（2025.03.17~2025.03.21）
+
+- 月考（进行中/03.19~03.21）
+
 ## 如何联系到我
 
 你可以直接在 [Issue 页面](https://github.com/shimoranla/shimoranla/issues)直接[创建 Issue]([https://github.com/shimoranla/shimoranla/issues/new](https://github.com/shimoranla/shimoranla/issues/new?assignees=shimoranla&labels=Talk%2CWait+for+review&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+)) 和我交流
