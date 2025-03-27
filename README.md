@@ -58,9 +58,9 @@ Jebrains IDEA （虽然用的是 Community Edition，但是也很好用 awa）
 
 [Minecraft 启动器开发指北](https://github.com/LuoYun-Team/MinecraftLauncherWiki)
 
-## 本周事件（2025.03.17~2025.03.21）
+## 本周事件（2025.03.24~2025.03.30）
 
-- 月考（进行中/03.19~03.21）
+- 生物竞赛（3.30）
 
 ## 如何联系到我
 
