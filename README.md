@@ -54,11 +54,15 @@ Visual Studio （虽然有点卡，但是挺好用的）
 
 Jebrains IDEA （虽然用的是 Community Edition，但是也很好用 awa）
 
+Jetbrains PyCharm （语法检查一流）
+
+Trae （AI Poewered IDE，效率++）
+
 ## 正在参与编写的文档
 
 [Minecraft 启动器开发指北](https://github.com/LuoYun-Team/MinecraftLauncherWiki)
 
-## 本周事件（2025.03.31~2025.04.06）
+## 本周事件（2025.04.14~2025.04.20）
 
 本周暂时没有任何事件
 
