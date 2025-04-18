@@ -32,11 +32,6 @@ jobs:
       run: |
         echo "Downloading file from ${{ github.event.inputs.file_url }}"
         curl -L -o azurelinux.iso "${{ github.event.inputs.file_url }}"
-
-    - name: Create split zip archive
-      run: |
-        zip -s ${{ github.event.inputs.chunk_size }} --verbose azurelinux.iso.zip azurelinux.iso
-
     - name: Create or get release
       id: release
       uses: softprops/action-gh-release@v1
@@ -53,7 +48,7 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
         upload_url: ${{ steps.release.outputs.upload_url }}
-        asset_path: ./azurelinux.iso.z*
+        asset_path: ./azurelinux.iso
         asset_name: ${{ github.event.inputs.release_tag }}_part
         asset_content_type: application/zip
 
