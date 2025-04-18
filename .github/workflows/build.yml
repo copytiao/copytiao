@@ -13,7 +13,7 @@ on:
       chunk_size:
         description: 'Chunk size in MB'
         required: false
-        default: '500m'  # zip 使用 'm' 表示 MB
+        default: '500m'
 
 jobs:
   download-and-upload:
@@ -22,47 +22,38 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v3
 
-    - name: Install zip
+    - name: Install dependencies
       run: sudo apt-get update && sudo apt-get install -y zip
 
     - name: Download file
       run: |
         echo "Downloading file from ${{ github.event.inputs.file_url }}"
         curl -L -o azurelinux.iso "${{ github.event.inputs.file_url }}"
-        ls -lh azurelinux.iso
 
     - name: Create split zip archive
       run: |
-        zip -s ${{ github.event.inputs.chunk_size }} --verbose large_file_split.zip azurelinux.iso
+        zip -s ${{ github.event.inputs.chunk_size }} --verbose azurelinux.iso.zip azurelinux.iso
 
-    - name: Get release ID
-      id: get_release
-      uses: actions/github-script@v6
+    - name: Create or get release
+      id: release
+      uses: softprops/action-gh-release@v1
       with:
-        script: |
-          try {
-            const release = await github.rest.repos.getReleaseByTag({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              tag: '${{ github.event.inputs.release_tag }}'
-            });
-            return release.data.id;
-          } catch (error) {
-            core.setFailed(`Release not found: ${error}`);
-            return -1;
-          }
+        tag_name: ${{ github.event.inputs.release_tag }}
+        name: Release ${{ github.event.inputs.release_tag }}
+        draft: false
+        prerelease: false
+        generate_release_notes: true
 
     - name: Upload zip parts to release
-      if: steps.get_release.outputs.result != -1
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        upload_url: ${{ github.event.repository.html_url }}/releases/${{ steps.get_release.outputs.result }}/assets
-        asset_path: ./large_file_split.z*
+        upload_url: ${{ steps.release.outputs.upload_url }}
+        asset_path: ./azurelinux.iso.z*
         asset_name: ${{ github.event.inputs.release_tag }}_part
         overwrite: true
 
     - name: Clean up
       run: |
-        rm -f large_file.iso large_file_split.z*
+        rm -f azurelinux.iso large_file_split.z*
