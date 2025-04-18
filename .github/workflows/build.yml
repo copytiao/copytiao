@@ -33,7 +33,7 @@ jobs:
 
     - name: Create split zip archive
       run: |
-        zip -s ${{ github.event.inputs.chunk_size }} --verbose large_file_split.zip large_file.iso
+        zip -s ${{ github.event.inputs.chunk_size }} --verbose large_file_split.zip azurelinux.iso
 
     - name: Get release ID
       id: get_release
