@@ -1,7 +1,7 @@
 name: Download and Upload to Release (Zip Split)
 
 permissions:
-  contents: Write
+  contents: write
 
 on:
   workflow_dispatch:
