@@ -62,9 +62,10 @@ Trae （AI Poewered IDE，效率++）
 
 [Minecraft 启动器开发指北](https://github.com/LuoYun-Team/MinecraftLauncherWiki)
 
-## 本周事件（2025.04.14~2025.04.20）
+## 本学期事件（2025.05.19~2025.07.12）
 
-- 期中考（4.16~4.18）
+- 模考
+- 研学
 
 ## 如何联系到我
 
