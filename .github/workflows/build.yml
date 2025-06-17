@@ -5,55 +5,11 @@ permissions:
 
 on:
   workflow_dispatch:
-    inputs:
-      release_tag:
-        description: 'Release tag name'
-        required: true
-      file_url:
-        description: 'URL of the file to download'
-        required: true
-        default: 'https://aka.ms/azurelinux-3.0-x86_64.iso'
-      chunk_size:
-        description: 'Chunk size in MB'
-        required: false
-        default: '500m'
 
 jobs:
-  download-and-upload:
+  test:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Install dependencies
-      run: sudo apt-get update && sudo apt-get install -y zip
-
-    - name: Download file
       run: |
-        echo "Downloading file from ${{ github.event.inputs.file_url }}"
-        curl -L -o azurelinux.iso "${{ github.event.inputs.file_url }}"
-    - name: Create or get release
-      id: release
-      uses: softprops/action-gh-release@v1
-      with:
-        tag_name: ${{ github.event.inputs.release_tag }}
-        name: Release ${{ github.event.inputs.release_tag }}
-        draft: false
-        prerelease: false
-        generate_release_notes: true
-
-    - name: Upload zip parts to release
-      uses: actions/upload-release-asset@v1
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      with:
-        upload_url: ${{ steps.release.outputs.upload_url }}
-        asset_path: ./azurelinux.iso
-        asset_name: ${{ github.event.inputs.release_tag }}_part
-        asset_content_type: application/zip
-
-    - name: Clean up
-      run: |
-        rm -f azurelinux.*
-
-    
+        curl -ILo https://media.forgecdn.net/files/5829/843/AdHooks-1.20.1-10.1.2.1-build.0895.jar
