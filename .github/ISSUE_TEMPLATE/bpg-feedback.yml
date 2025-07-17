@@ -1,5 +1,5 @@
 name: "[预留] DN42 节点中断反馈"
-description: ""
+description: "报告我所持有的 DN42 网络节点中断"
 
 labels: ["Network","Wait for review"]
 
