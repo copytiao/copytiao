@@ -1,0 +1,27 @@
+name: "[预留] DN42 节点中断反馈"
+description: ""
+
+labels: ["Network","Wait for review"]
+
+body:
+- type: checkboxes
+  id: "yml-1"
+  attributes:
+    label: "检查项"
+    description: "请逐个检查下列项目，并勾选确认。"
+    options:
+    - label: "我已知悉、理解节点中断可能不会被立刻处理，并保证不会因此提刀找网络维护者"
+      required: true
+- type: textarea
+  id: "yml-2"
+  attributes:
+    label: 您的自治系统编号（ASN）是
+    description: "填写自治系统编号。"
+  validations:
+    required: true
+- type: textarea
+  id: "yml-3"
+  attributes:
+    label: 发生故障的时间
+  validations:
+    required: false
