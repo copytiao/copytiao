@@ -77,7 +77,7 @@ Trae （AI Poewered IDE，效率++）
 
 但是并不推荐这种联系方式，因为我一般很少看电子邮件，所以可能随缘回复，非常抱歉！
 
-如果想要获得 IM 般的体验，也可以选择 [Gitter](https://matrix.to/#/@shimoranla:gitter.im)
+如果想要获得不那么 IM 的体验，也可以选择 [Gitter](https://matrix.to/#/@shimoranla:gitter.im) （与电子邮件等效，并且常年不看）
 
 ## 关于滥用权限的反馈问题
 
