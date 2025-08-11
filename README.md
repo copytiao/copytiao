@@ -14,7 +14,7 @@
 
 你是第 ![Visitor Count](https://profile-counter.glitch.me/copytiao/count.svg) 位到访者
 
-### [个人网站](https://boximengling.luotianyi-0712.top)
+### 有兴趣看一下我的[个人博客吗](https://boximengling.luotianyi-0712.top)？（虽然没啥东西）
 
 
 ## 目前正在担任的职位
