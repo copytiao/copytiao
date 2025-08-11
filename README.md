@@ -10,9 +10,10 @@
 
 比较擅长写文档（虽然写的不是很好）。
 
-我的 MBTI 类型是 ISFP（探险家人格），喜欢探索新的、未知的事物。
+我的 MBTI 类型是 ISFP（探险家人格），喜欢探索新的、未知的事物。<img width="960" height="1030" alt="图片" src="https://github.com/user-attachments/assets/352398fb-8f25-43de-9335-d2ba418eefab" />
 
-你是第 ![Visitor Count](https://profile-counter.glitch.me/shimoranla/count.svg) 位到访者
+
+你是第 ![Visitor Count](https://profile-counter.glitch.me/copytiao/count.svg) 位到访者
 
 ## 目前正在担任的职位
 
@@ -29,8 +30,8 @@
 [![vsinger-luotianyi](https://img.shields.io/badge/Vsinger-%E6%B4%9B%E5%A4%A9%E4%BE%9D-blue.svg?style=for-the-badge)](https://space.bilibili.com/36081646)
 
 ## 我的贡献统计
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimoranla)](https://github.com/anuraghazra/github-readme-stats)
-[![Shimoranla's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimoranla)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=copytiao)](https://github.com/anuraghazra/github-readme-stats)
+[![copytiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=copytiao)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 随机刷新点
 
@@ -69,7 +70,7 @@ Trae （AI Poewered IDE，效率++）
 
 ## 如何联系到我
 
-你可以直接在 [Issue 页面](https://github.com/shimoranla/shimoranla/issues)直接[创建 Issue]([https://github.com/shimoranla/shimoranla/issues/new](https://github.com/shimoranla/shimoranla/issues/new?assignees=shimoranla&labels=Talk%2CWait+for+review&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+)) 和我交流
+你可以直接在 [Issue 页面](https://github.com/copytiao/copytiao/issues)直接[创建 Issue]([https://github.com/copytiao/copytiao/issues/new](https://github.com/copytiao/copytiao/issues/new?assignees=copytiao&labels=Talk%2CWait+for+review&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+)) 和我交流
 
 如果不想公开聊天内容，可以发送电子邮件
 
@@ -77,7 +78,7 @@ Trae （AI Poewered IDE，效率++）
 
 但是并不推荐这种联系方式，因为我一般很少看电子邮件，所以可能随缘回复，非常抱歉！
 
-如果想要获得不那么 IM 的体验，也可以选择 [Gitter](https://matrix.to/#/@shimoranla:gitter.im) （与电子邮件等效，并且常年不看）
+如果想要获得不那么 IM 的体验，也可以选择 [Gitter](https://matrix.to/#/@copytiao:gitter.im) （与电子邮件等效，并且常年不看）
 
 ## 关于滥用权限的反馈问题
 
@@ -85,7 +86,7 @@ Trae （AI Poewered IDE，效率++）
 
 如果没有类似的规范，可按照其他社区的交流建议、指导，然后仔细评估
 
-如果经过上面两步的评估，你还是认为我的行为存在不合理之处，可以在[这里](https://github.com/shimoranla/shimoranla/issues)选择对应的模板来报告或反馈这类问题。
+如果经过上面两步的评估，你还是认为我的行为存在不合理之处，可以在[这里](https://github.com/copytiao/copytiao/issues)选择对应的模板来报告或反馈这类问题。
 
 我会非常乐意和你探讨如何更合理的使用权限。
 
