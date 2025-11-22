@@ -16,6 +16,7 @@
 
 ### 有兴趣看一下我的[个人博客吗](https://boximengling.luotianyi-0712.top)？（虽然没啥东西）
 
+### 欢迎加入我的 [QQ 群](https://qm.qq.com/q/ctv32lV2Vy)，请注意阅读群规
 
 ## 目前正在担任的职位
 
@@ -38,7 +39,6 @@
 ## 随机刷新点
 
 [GitHub](https://github.com/)
-
 
 
 ## 开发语言
