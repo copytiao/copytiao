@@ -33,7 +33,7 @@ Tauri / Avalonia
 ### 欢迎加入我的 [QQ 群](https://qm.qq.com/q/ctv32lV2Vy)，请注意阅读群规
 
 ## 标签
-Spamming
+
 [![vsinger-luotianyi](https://img.shields.io/badge/Vsinger-%E6%B4%9B%E5%A4%A9%E4%BE%9D-blue.svg?style=for-the-badge)](https://space.bilibili.com/36081646)
 
 ## 随机刷新点
@@ -47,8 +47,6 @@ Spamming
 >[!IMPORTANT]
 >
 > 不允许 Spamming 我，也不准唱衰 V 家，否则来一个封一个。
-
-我会非常乐意和你探讨如何更合理的使用权限。
 
 <details>
 <summary>页面使用的开源项目</summary>  
