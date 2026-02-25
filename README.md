@@ -44,7 +44,7 @@ Tauri / Avalonia
 
 你可以直接在 [Issue 页面](https://github.com/copytiao/copytiao/issues)直接[创建 Issue]([https://github.com/copytiao/copytiao/issues/new](https://github.com/copytiao/copytiao/issues/new?assignees=copytiao&labels=Talk%2CWait+for+review&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+)) 和我交流。
 
-想要 IM 和我聊天可以用 Telegram 给我发 PM（Telegram: [@copycopytiap](https://t.me/copycopytiao)），看到会回的，可能不会那么快。
+想要 IM 和我聊天可以用 Telegram 给我发 PM（Telegram: [@copycopytiao](https://t.me/copycopytiao)），看到会回的，可能不会那么快。
 
 >[!IMPORTANT]
 >
