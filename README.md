@@ -46,6 +46,12 @@ Tauri / Avalonia
 
 你可以直接在 [Issue 页面](https://github.com/copytiao/copytiao/issues)直接[创建 Issue]([https://github.com/copytiao/copytiao/issues/new](https://github.com/copytiao/copytiao/issues/new?assignees=copytiao&labels=Talk%2CWait+for+review&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+)) 和我交流。
 
+>[!WARNING]
+>
+> 如果你有幸得到了我的 IM 聊天账号，请务必征得我的同意再 PM 我。
+> 切记不要加完一句话不说，我会立刻 Block。
+> 看到会回的，可能不会那么快。
+
 >[!IMPORTANT]
 >
 > 不允许 Spamming 我，也不准唱衰 V 家，否则来一个封一个。
