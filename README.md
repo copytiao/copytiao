@@ -40,9 +40,12 @@ Tauri / Avalonia
 
 [GitHub](https://github.com/)
 
-## 如何联系到我
+## 个人博客
 
-[个人博客](https://www.20260712.xyz)，可以在上面发评论（不一定看的到）
+### [新站](https://www.20260712.xyz)
+### [旧站](https://copytiao.netlify.app)
+
+## 如何联系到我
 
 你可以直接在 [Issue 页面](https://github.com/copytiao/copytiao/issues)直接[创建 Issue]([https://github.com/copytiao/copytiao/issues/new](https://github.com/copytiao/copytiao/issues/new?assignees=copytiao&labels=Talk%2CWait+for+review&projects=&template=-talk--talk-with-me.md&title=%5BTalk%5D+)) 和我交流。
 
