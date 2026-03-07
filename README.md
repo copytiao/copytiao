@@ -6,7 +6,7 @@
 >
 > 由于学业压力显著增大，工作日大多数事务将延迟到具有较大空闲处理（大型开发除外，会推迟到周末处理）
 
-![count](https://yourinsights.rqwq.link/api/insight?username=copytiao&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false)
+![count](https://yourinsights.rqwq.link/api/insight?username=LinQingYuu&theme=ocean&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false)
 
 ## 个人简介
 
